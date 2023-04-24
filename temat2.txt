@@ -1,0 +1,13 @@
+Etap 2:
+Do programu zostały dodane odpowiednie klasy dziedziczące po klasie Tworker.
+Do klasy bazowej zostały dodane odpowiednie funkcje. Niektóre z nich zostały dodane jako funkcje wirtualne lub funkcje czysto wirtualne,
+przez co klasa bazowa stała się klasą abstrakcyjną.
+Funkcja main została wyposażona w argumenty, umożliwiające przekazywanie argumentów z wiersza poleceń.
+Do wprowadzania argumentów użyte zostały funkcje readint, readdouble oraz readstring, które pobierają arguemnty z pliku przekazanego w wierszu poleceń,
+lub, gdy jest on pusty, pobierają dane od użytkownika.
+
+
+Etap 3:
+Do programu zostały dodane 2 struktury. Każda z nich reprezentuje typ konkretnego wyjątku, mogącego pojawić się w programie. Wyjątki są obsłużone.
+Program zawiera dwa szablony funkcji. Argumenty są przekazywane do wszystkich funkcji przez referencję, w celu uniknięcia kopiowania obiektów.
+Plik z komendami został uzupełniony.
